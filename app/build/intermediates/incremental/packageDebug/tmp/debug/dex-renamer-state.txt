@@ -1,0 +1,4 @@
+#Wed Oct 03 20:21:36 CEST 2018
+base.0=E\:\\Java-Android-Projects\\IoAR\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
