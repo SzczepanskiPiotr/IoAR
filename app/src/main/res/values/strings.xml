@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">IoAR</string>
     <string name="title_activity_main">MainActivity</string>
+    <!-- BLUETOOTH DISABLED ALERT POPUP -->
+    <string name="TV_bluetoothInfo">Bluetooth is required to run this application! Closing in {{seconds}}</string>
+    <string name="BTN_enableBluetooth">Enable</string>
+    <string name="BTN_leave">Leave</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
